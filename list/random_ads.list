@@ -2,4 +2,5 @@
 # looking through pihole logs and cherry picking sites I'd like blocked.
 # ---------------------
 
+firebaseremoteconfig.googleapis.com
 edge-safety-service.trafficmanager.net
